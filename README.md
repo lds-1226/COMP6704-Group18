@@ -1,7 +1,7 @@
 # COMP6704-Group18
 **Unconstrained Optimization: Comparison of DQN Variants on Bombers Game**
 
-Group 08  
+Group 18  
 The Hong Kong Polytechnic University  
 
 ## Project Overview
